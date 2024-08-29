@@ -57,7 +57,7 @@ The framework will then look for static files in the specified directory, such a
 2. **Compile and Run the Server**:
    ```bash
    mvn package
-   java -cp target/arep_lab2-1.0-SNAPSHOT.jar org.example.SimpleWebServer
+   java -cp target/-Web-Framework-Development-for-REST-Services-and-Static-File-Management-1.0-SNAPSHOT.jar org.example.SimpleWebServer
    ```
 
 3. **Access the Web Server**:
