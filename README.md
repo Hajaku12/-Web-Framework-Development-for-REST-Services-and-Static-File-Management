@@ -51,8 +51,7 @@ The framework will then look for static files in the specified directory, such a
 ## How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Hajaku12/Lab2_webserver.git
-   cd Lab2_webserver
+   git clone [https://github.com/Hajaku12/Lab2_webserver.git](https://github.com/Hajaku12/-Web-Framework-Development-for-REST-Services-and-Static-File-Management.git)
    ```
 
 2. **Compile and Run the Server**:
